@@ -1,4 +1,4 @@
-#labels Featured
+#labels Featured,Phase-Design
 =ANALYSE DU BESOIN=
 ==Cahier des charges initial==
 
